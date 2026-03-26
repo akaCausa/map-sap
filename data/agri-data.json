@@ -1,0 +1,98 @@
+{
+  "Arica y Parinacota": {
+    "agricola": 48200,
+    "forestal": 1200,
+    "ganadero": 15600,
+    "fruticola": 7300
+  },
+  "Tarapacá": {
+    "agricola": 22100,
+    "forestal": 600,
+    "ganadero": 8300,
+    "fruticola": 4100
+  },
+  "Antofagasta": {
+    "agricola": 14500,
+    "forestal": 300,
+    "ganadero": 5100,
+    "fruticola": 1800
+  },
+  "Atacama": {
+    "agricola": 63900,
+    "forestal": 2400,
+    "ganadero": 9700,
+    "fruticola": 31200
+  },
+  "Coquimbo": {
+    "agricola": 128400,
+    "forestal": 18200,
+    "ganadero": 25300,
+    "fruticola": 68400
+  },
+  "Valparaíso": {
+    "agricola": 167800,
+    "forestal": 74100,
+    "ganadero": 19600,
+    "fruticola": 82100
+  },
+  "Metropolitana de Santiago": {
+    "agricola": 154200,
+    "forestal": 12900,
+    "ganadero": 11200,
+    "fruticola": 93200
+  },
+  "O’Higgins": {
+    "agricola": 286300,
+    "forestal": 228500,
+    "ganadero": 37200,
+    "fruticola": 164300
+  },
+  "Maule": {
+    "agricola": 412500,
+    "forestal": 689200,
+    "ganadero": 91100,
+    "fruticola": 188600
+  },
+  "Ñuble": {
+    "agricola": 239800,
+    "forestal": 341600,
+    "ganadero": 53200,
+    "fruticola": 70400
+  },
+  "Biobío": {
+    "agricola": 298400,
+    "forestal": 918700,
+    "ganadero": 104300,
+    "fruticola": 45600
+  },
+  "La Araucanía": {
+    "agricola": 437600,
+    "forestal": 522300,
+    "ganadero": 211400,
+    "fruticola": 32100
+  },
+  "Los Ríos": {
+    "agricola": 183500,
+    "forestal": 162800,
+    "ganadero": 246700,
+    "fruticola": 12800
+  },
+  "Los Lagos": {
+    "agricola": 265700,
+    "forestal": 176200,
+    "ganadero": 402300,
+    "fruticola": 15400
+  },
+  "Aysén": {
+    "agricola": 28400,
+    "forestal": 94100,
+    "ganadero": 218600,
+    "fruticola": 2400
+  },
+  "Magallanes y de la Antártica Chilena": {
+    "agricola": 12100,
+    "forestal": 18300,
+    "ganadero": 497200,
+    "fruticola": 500
+  }
+}
